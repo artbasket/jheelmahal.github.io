@@ -323,6 +323,17 @@ p {
 }
 
 @media(max-width: 991px) {
+
+    .bg {
+        /* Full height */
+        height: 55%;
+    }
+
+    .centered {
+        top: 35%;
+        left: 50%;
+    }
+
     .flex {
         display: inline-block;
     }
@@ -364,6 +375,16 @@ p {
 
 
 @media (max-width: 575.98px) {
+
+    .bg {
+        /* Full height */
+        height: 55%;
+    }
+
+    .centered {
+        top: 35%;
+        left: 43%;
+    }
 
     #contatti {
         padding-bottom: 800px;
